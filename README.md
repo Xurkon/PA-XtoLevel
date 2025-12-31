@@ -38,7 +38,7 @@ Detailed technical changes and documentation can be found in the [docs](https://
 
 ## 🤝 Credits
 - **Original Author:** Atli Þór
-- **Ascension Fixes:** Xurkon / Gemlatune
+- **Ascension Fixes:** Xurkon
 
 ---
 *Maintained by Xurkon for the Ascension Community.*
