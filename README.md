@@ -1,8 +1,11 @@
 # XToLevel - Project Ascension Compatibility Patches
 
 [![Release](https://img.shields.io/github/v/release/Xurkon/PA-XtoLevel?style=for-the-badge&color=e67e22)](https://github.com/Xurkon/PA-XtoLevel/releases)
+[![Downloads](https://img.shields.io/github/downloads/Xurkon/PA-XtoLevel/total?style=for-the-badge&color=e67e22)](https://github.com/Xurkon/PA-XtoLevel/releases)
 [![Interface](https://img.shields.io/badge/Interface-3.3.5a-blue?style=for-the-badge)](https://github.com/Xurkon/PA-XtoLevel)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE.txt)
+[![Documentation](https://img.shields.io/badge/Documentation-View%20Docs-58a6ff?style=for-the-badge)](https://xurkon.github.io/PA-XtoLevel/docs/index.html)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/Gemlatune)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/Gemlatune)
 
 A patched version of the classic **XToLevel** addon, specifically optimized for the **Project Ascension** (3.3.5a) client.
 
