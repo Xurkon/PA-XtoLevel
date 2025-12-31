@@ -3,7 +3,7 @@
 [![Release](https://img.shields.io/github/v/release/Xurkon/PA-XtoLevel?style=for-the-badge&color=e67e22)](https://github.com/Xurkon/PA-XtoLevel/releases)
 [![Downloads](https://img.shields.io/github/downloads/Xurkon/PA-XtoLevel/total?style=for-the-badge&color=e67e22)](https://github.com/Xurkon/PA-XtoLevel/releases)
 [![Interface](https://img.shields.io/badge/Interface-3.3.5a-blue?style=for-the-badge)](https://github.com/Xurkon/PA-XtoLevel)
-[![Documentation](https://img.shields.io/badge/Documentation-View%20Docs-58a6ff?style=for-the-badge)](https://xurkon.github.io/PA-XtoLevel/docs/index.html)
+[![Documentation](https://img.shields.io/badge/Documentation-View%20Docs-58a6ff?style=for-the-badge)](https://xurkon.github.io/PA-XtoLevel/)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/Xurkon)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/Xurkon)
 
